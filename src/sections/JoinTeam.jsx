@@ -13,7 +13,7 @@ const JoinTeam = () => {
             viewport={{ once: true, amount: 1 }}
             className=" text-center md:text-left text-[40px] lg:text-[58px]  leading-[1.2] "
           >
-            Join <br /> <span className="pl-4">Grativy Team</span>
+            Join <br /><span className="pl-4">Grativy Team</span>
           </motion.h3>
         </div>
 
