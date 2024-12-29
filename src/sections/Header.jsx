@@ -79,7 +79,7 @@ const Header = () => {
               ? "active max-lg:opacity-100 backdrop-blur-md bg-opacity-30 bg-black"
               : "max-lg:pointer-events-none"
           )}
-        >
+        > 
           <div className="w-full h-auto relative max-lg:h-screen  flex_between px-[2%] text-white max-lg:flex-col max-lg:justify-center">
             <div className="logo max-lg:hidden ">
               <img src="/images/logo.png" width={115} height={55} alt="logo" />
