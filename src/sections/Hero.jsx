@@ -5,7 +5,7 @@ import GetButton from "../components/GetButton";
 
 const Hero = () => {
   return (
-    <section className="relative w-full h-auto flex_center max-md:min-h-[800px] md:h-[100vh] min-[1700px]:h-[1000px]">
+    <section className="relative w-full h-auto flex_center max-md:min-h-[800px] md:h-[100vh] min-[1700px]:h-[1000px] ">
       <div className="container flex_center flex-col gap-6 text-white w-[90%] lg:w-[70%]">
         <motion.h3
           initial={{ opacity: 0, y: 50 }}

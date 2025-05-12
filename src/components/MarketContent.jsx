@@ -9,6 +9,7 @@ const MarketContent = ({
   imgSrc,
   flexRowReverse = false,
 }) => {
+ 
 
   const [isSmallScreen, setIsSmallScreen] = useState(false);
 
