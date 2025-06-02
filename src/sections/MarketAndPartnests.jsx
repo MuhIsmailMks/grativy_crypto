@@ -1,4 +1,3 @@
-import React from "react";
 import MarketContent from "../components/MarketContent";
 import Partnert from "../components/Partnert";
 import { motion } from "framer-motion";
